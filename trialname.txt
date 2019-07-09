@@ -1,2 +1,4 @@
 before commit.
 made some edits
+
+checking git diff
